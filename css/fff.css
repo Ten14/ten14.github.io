@@ -1,0 +1,21 @@
+/* Styles AFTER Bootstrap */
+
+
+/* SIDEBAR 1 */
+
+.sidebar-1 h4 {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+/* SIDEBAR 2 
+ .sidebar-2 a {
+	width: 100%;
+} */
+
+
+.sidebar-2 img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
