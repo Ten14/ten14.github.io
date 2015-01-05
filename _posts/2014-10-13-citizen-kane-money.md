@@ -1,11 +1,10 @@
 ---
-id: 14
 title: What Citizen Kane has to say about money
 author: Adam
 excerpt: 'Better one handful with tranquility <br/>than two handfuls with toil <br/>and chasing after the wind. <br/>-Ecclesiastes 4:6'
 layout: post
 guid: http://fff.advisorbookstore.com/?p=14
-permalink: /14/scripture/ecclesiastes/citizen-kane-money
+permalink: /citizen-kane-money
 categories:
   - Ecclesiastes
   - Featured

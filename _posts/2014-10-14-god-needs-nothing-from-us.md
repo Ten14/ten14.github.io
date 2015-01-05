@@ -1,11 +1,10 @@
 ---
-id: 17
 title: God Needs Nothing From Us
 author: Adam
 excerpt: '<p>For every beast of the forest is mine,<br/>and the cattle upon a thousand hills.</p><p>I know all the fowls of the mountains: <br/>and the wild beasts of the field are mine.</p><p>If I were hungry, I would not tell thee: <br/>for the world is mine, and the fulness thereof.</p><p>-Psalm 50:10-12</p>'
 layout: post
 guid: http://fff.advisorbookstore.com/?p=17
-permalink: /17/scripture/psalms/psalm-50/god-needs-nothing-from-us
+permalink: /god-needs-nothing-from-us
 categories:
   - Psalm 50
 tags:

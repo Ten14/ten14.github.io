@@ -1,11 +1,10 @@
 ---
-id: 26
 title: Now is the Time to Buy Gold
 author: Adam
 excerpt: "<p>Gold has been in a downturn for more than two years now, resulting in the lowest investor sentiment in many years. Hardcore goldbugs find no explanation in the big picture financial numbers of government deficits and money creation, which should be supportive to gold. </p><p>Bud Conrad, Chief Economist at Casey Research, has an explanation for why gold has been down&mdash;and why that is about to reverse itself. He's convinced that now is the best time to invest in gold again.</p>"
 layout: post
 guid: http://fff.advisorbookstore.com/?p=26
-permalink: /26/sponsored-post/now-is-the-time-to-buy-gold
+permalink: /now-is-the-time-to-buy-gold
 categories:
   - Featured
   - Investing

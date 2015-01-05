@@ -1,11 +1,10 @@
 ---
-id: 94
 title: 'God&#8217;s Blessing May Bring More Work'
 author: Adam
 excerpt: 'If you follow my decrees and are careful to obey my commands, I will send you rain in its season, and the ground will yield its crops and the trees their fruit. Your threshing will continue until grape harvest and the grape harvest will continue until planting, and you will eat all the food you want and live in safety in your land.<br/>-Leviticus 26:3-5'
 layout: post
 guid: http://faithfilledfinance.com/?p=94
-permalink: /94/scripture/leviticus/gods-blessing-may-bring-more-work
+permalink: /gods-blessing-may-bring-more-work
 categories:
   - Leviticus
 ---

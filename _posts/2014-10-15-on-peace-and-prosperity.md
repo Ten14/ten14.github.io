@@ -1,11 +1,10 @@
 ---
-id: 30
 title: On Peace and Prosperity
 author: Adam
 excerpt: 'Submit to God and be at peace with him;<br/>in this way prosperity will come to you.<br/>-Job 22:21'
 layout: post
 guid: http://fff.advisorbookstore.com/?p=30
-permalink: /30/scripture/job/on-peace-and-prosperity
+permalink: /on-peace-and-prosperity
 categories:
   - Featured
   - Job

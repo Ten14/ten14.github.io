@@ -1,11 +1,10 @@
 ---
-id: 9
 title: Wealth and Blessings are From the Lord Alone
 author: Adam
 excerpt: 'The blessing of the Lord brings wealth, <br/>without painful toil in it. <br/>-Proverbs 10:22'
 layout: post
 guid: http://fff.advisorbookstore.com/?p=9
-permalink: /9/scripture/proverbs/wealth-and-blessings-from-the-lord
+permalink: /wealth-and-blessings-from-the-lord
 categories:
   - Featured
   - Proverbs

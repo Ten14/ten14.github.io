@@ -1,11 +1,10 @@
 ---
-id: 4
 title: The World Belongs to God
 author: Adam
 excerpt: "The earth is the Lord's, and the fulness thereof; <br/>the world, and they that dwell therein. <br/>-Psalm 24:1"
 layout: post
 guid: http://fff.advisorbookstore.com/?p=4
-permalink: /4/scripture/psalms/psalm-24/the-world-belongs-to-god
+permalink: /the-world-belongs-to-god
 categories:
   - Featured
   - Psalm 24

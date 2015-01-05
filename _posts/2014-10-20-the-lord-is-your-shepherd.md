@@ -1,11 +1,10 @@
 ---
-id: 103
 title: The Lord is Your Shepherd
 author: Adam
 excerpt: 'The Lord is my shepherd; I shall not want.<br/>-Psalm 23:1 KJV'
 layout: post
 guid: http://faithfilledfinance.com/?p=103
-permalink: /103/featured-posts/the-lord-is-your-shepherd
+permalink: /the-lord-is-your-shepherd
 categories:
   - Featured
   - Psalm 23

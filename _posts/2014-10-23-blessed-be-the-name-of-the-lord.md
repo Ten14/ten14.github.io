@@ -1,5 +1,4 @@
 ---
-id: 113
 title: Blessed be the Name of the Lord
 author: Adam
 excerpt: |
@@ -9,7 +8,7 @@ excerpt: |
   -Job 1:21 KJV
 layout: post
 guid: http://faithfilledfinance.com/?p=113
-permalink: /113/scripture/job/blessed-be-the-name-of-the-lord
+permalink: /blessed-be-the-name-of-the-lord
 categories:
   - Featured
   - Job

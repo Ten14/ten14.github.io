@@ -1,12 +1,11 @@
 ---
-id: 120
 title: At what price?
 author: Adam
 excerpt: |
   A fortune made by a lying tongue <br/>is a fleeting vapor and a deadly snare.<br/> &mdash; Proverbs 21:6 NIV
 layout: post
 guid: http://faithfilledfinance.com/?p=120
-permalink: /120/scripture/proverbs/at-what-price
+permalink: /at-what-price
 thumbnail: http://placehold.it/150.png
 categories:
   - Featured

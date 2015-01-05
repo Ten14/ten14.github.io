@@ -1,5 +1,4 @@
 ---
-id: 117
 title: Knowledge and Wisdom
 author: Adam
 excerpt: |
@@ -10,7 +9,7 @@ excerpt: |
   -Proverbs 24:3-4 NIV
 layout: post
 guid: http://faithfilledfinance.com/?p=117
-permalink: /117/scripture/proverbs/knowledge-wisdom
+permalink: /knowledge-wisdom
 categories:
   - Proverbs
   - Scripture

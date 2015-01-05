@@ -1,5 +1,4 @@
 ---
-id: 98
 title: A Tropical Tax Shelter
 author: Adam
 excerpt: |
@@ -7,7 +6,7 @@ excerpt: |
   <p>
 layout: post
 guid: http://faithfilledfinance.com/?p=98
-permalink: /98/sponsored-post/a-tropical-tax-shelter
+permalink: /a-tropical-tax-shelter
 categories:
   - Featured
   - Investing
