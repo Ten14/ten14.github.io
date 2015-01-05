@@ -3,13 +3,37 @@ layout: default
 ---
 <div class="post">
 
+
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
+
+<img src="http://placehold.it/3200x1500/00ff00/000000" class="img-responsive">
+<a href="" class="pull-right label-link"><span class="label label-primary">Share this photo!</span></a>
+<a href="" class="pull-right label-link"><span class="label label-info">Photo Credit</span></a>
+
 
   <article class="post-content">
     {{ content }}
   </article>
+
+
+  <div id="page-navigation"> 
+        <div class="clear">&nbsp;</div> 
+        <div class="left"> 
+        {% if page.previous.url %} 
+                <a href="{{page.previous.url}}" title="Previous Post: 
+{{page.previous.title}}">&laquo; {{page.previous.title}}</a> 
+        {% endif %} 
+        </div> 
+
+        <div class="right"> 
+        {% if page.next.url %} 
+                <a href="{{page.next.url}}" title="next Post: 
+{{page.next.title}}">{{page.next.title}} &raquo; </a> 
+        {% endif %} 
+        </div> 
+        <div class="clear">&nbsp;</div> 
+</div> 
 
 </div>

@@ -19,10 +19,6 @@ tags:
   - learning
   - wisdom
 ---
-<p style="text-align: right;">
-  <a href="https://www.flickr.com/photos/tesschamakkala/2956927902/">Photo Credit</a>
-</p>
-
 > By wisdom a house is built,  
 > and through understanding it is established;  
 > through knowledge its rooms are filled  

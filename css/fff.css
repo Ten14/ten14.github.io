@@ -1,12 +1,28 @@
 /* Styles AFTER Bootstrap */
 
 
+
+/* General Typography */
+
+
+
+a.label-link:hover {
+	text-decoration: none;
+}
+
+
 /* SIDEBAR 1 */
 
 .sidebar-1 h4 {
 	margin-top: 5px;
 	margin-bottom: 15px;
 }
+
+.sidebar-1 .sponsored-label {
+position: relative;
+top: -20px;
+right: 4px;
+	}
 
 /* SIDEBAR 2 
  .sidebar-2 a {
@@ -19,3 +35,20 @@
     height: auto;
     margin-bottom: 10px;
 }
+
+
+/* Post Layout */
+
+.post-header .post-title {
+	margin-top: 0;
+}
+
+.post-content {
+	font-size: 18px;
+	line-height: 26px;
+	margin-top: 26px;
+}
+
+.post-content p {
+	margin-bottom: 26px;
+	}
