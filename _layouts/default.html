@@ -4,6 +4,8 @@
   {% include head.html %}
 
   <body>
+  {% include fb-comment-js.html %}
+  
 
     {% include header.html %}
 
@@ -15,26 +17,18 @@
 
    
         {{ content }}
-  
-
-          <nav>
-            <ul class="pager">
-              <li><a href="#">Previous</a></li>
-              <li><a href="#">Next</a></li>
-            </ul>
-          </nav>
 
         </div><!-- /.blog-main -->
-<div class="col-sm-4 sidebar-1" >
+<div class="col-sm-4 sidebar-1 shuffle" >
     {% for post in site.posts %}
-        
+        <div class=>
           <a href="{{ post.url | prepend: site.baseurl }}">
 
-        {% if post.image.wide %}
-          <img src="/images/{{ post.permalink}}_wide.jpg" class="img-responsive" >
-        {% else %}
-          <img src="http://placehold.it/400x150&text=Awesome+Image" class="img-responsive" >
-        {% endif %}
+            {% if post.image.wide %}
+              <img src="/images/{{ post.permalink}}_wide.jpg" class="img-responsive" >
+            {% else %}
+              <img src="http://placehold.it/400x150&text=Awesome+Image" class="img-responsive" >
+            {% endif %}
           </a>
 
             {% if post.sponsored %}
@@ -42,21 +36,19 @@
             {% endif %}
 
           <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        </div>
         
     {% endfor %}
     </div><!-- /.sidebar-1 -->
 
-        <div class="col-sm-2 sidebar-2" id="sidebar-2">
-          <a href=""><img src="http://placehold.it/300x50/0000ff/000000"></a>
+        <div class="col-sm-2 sidebar-2 shuffle" id="sidebar-2">
+          
           {% for post in site.posts %}
             {% if post.image.tall %}
               <a href="{{ post.url | prepend: site.baseurl }}"><img src="/images/{{ post.permalink }}_long.jpg"></a>
             {% endif %} 
           {% endfor %}
-          <a href=""><img src="http://placehold.it/250x110/00ffff/000000"></a> 
-          <a href=""><img src="http://placehold.it/300x500/ff00ff/000000"></a> 
-          <a href=""><img src="http://placehold.it/600x100/ff0000/000000"></a> 
-          <a href=""><img src="http://placehold.it/200x75/ffff00/000000"></a> 
+         
         </div><!-- /.sidebar-2 -->
 
       </div><!-- /.row -->
