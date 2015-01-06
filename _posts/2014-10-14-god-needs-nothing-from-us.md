@@ -5,6 +5,11 @@ excerpt: '<p>For every beast of the forest is mine,<br/>and the cattle upon a th
 layout: post
 guid: http://fff.advisorbookstore.com/?p=17
 permalink: /god-needs-nothing-from-us
+image:
+ feature: true
+ thumbnail: true
+ wide: true
+ tall: true
 categories:
   - Psalm 50
 tags:

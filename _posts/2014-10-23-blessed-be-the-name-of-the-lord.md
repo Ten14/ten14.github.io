@@ -9,6 +9,11 @@ excerpt: |
 layout: post
 guid: http://faithfilledfinance.com/?p=113
 permalink: /blessed-be-the-name-of-the-lord
+image:
+ feature: true
+ thumbnail: true
+ wide: true
+ tall: true
 categories:
   - Featured
   - Job

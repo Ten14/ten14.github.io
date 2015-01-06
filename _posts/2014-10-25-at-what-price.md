@@ -6,7 +6,11 @@ excerpt: |
 layout: post
 guid: http://faithfilledfinance.com/?p=120
 permalink: /at-what-price
-thumbnail: http://placehold.it/150.png
+image:
+ feature: true
+ thumbnail: true
+ wide: true
+ tall: true
 categories:
   - Featured
   - Proverbs

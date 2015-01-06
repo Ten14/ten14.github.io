@@ -8,9 +8,11 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-<img src="http://placehold.it/3200x1500/00ff00/000000" class="img-responsive">
+  {% if page.image.feature %}
+<img src="/images/{{ page.permalink }}.jpg" class="img-responsive">
 <a href="" class="pull-right label-link"><span class="label label-primary">Share this photo!</span></a>
 <a href="" class="pull-right label-link"><span class="label label-info">Photo Credit</span></a>
+  {% endif %}
 
 
   <article class="post-content">

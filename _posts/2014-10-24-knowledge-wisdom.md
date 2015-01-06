@@ -10,6 +10,11 @@ excerpt: |
 layout: post
 guid: http://faithfilledfinance.com/?p=117
 permalink: /knowledge-wisdom
+image:
+ feature: true
+ thumbnail: true
+ wide: true
+ tall: true
 categories:
   - Proverbs
   - Scripture

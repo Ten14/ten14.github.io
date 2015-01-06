@@ -5,6 +5,11 @@ excerpt: "<p>Gold has been in a downturn for more than two years now, resulting 
 layout: post
 guid: http://fff.advisorbookstore.com/?p=26
 permalink: /now-is-the-time-to-buy-gold
+image:
+ feature: true
+ thumbnail: true
+ wide: true
+ tall: true
 categories:
   - Featured
   - Investing

@@ -5,6 +5,11 @@ excerpt: 'Submit to God and be at peace with him;<br/>in this way prosperity wil
 layout: post
 guid: http://fff.advisorbookstore.com/?p=30
 permalink: /on-peace-and-prosperity
+image:
+ feature: true
+ thumbnail: true
+ wide: true
+ tall: true
 categories:
   - Featured
   - Job
