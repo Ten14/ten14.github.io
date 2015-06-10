@@ -1,1 +1,0 @@
-HTML design requirements for church governance.
