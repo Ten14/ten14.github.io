@@ -175,156 +175,42 @@ div.article-content > p:first-child:first-letter {
 }
 
 
+/* Ten14 Landing Page Styles */
 
+body#coming-soon {
+ width: 100%;
+ min-height: 1500px;
+ background-image: url(../assets/images/cross-and-hands-bw.jpg);
+ background-repeat: no-repeat;
+ background-position: top;
+ background-attachment: fixed;
+ padding-top: 0;
+ font-family: 'Open Sans', sans-serif;
 
-/** CLAREMONT  **/
-
-.claremont,
-.claremont h1,
-.claremont h2,
-.claremont h3,
-.claremont h4,
-.claremont h5,
-.claremont h6,
-.claremont p,
-.claremont ul, .claremont ol, .claremont li,
-.claremont dl, .claremont dt, .claremont dd,
-.claremont blockquote {
-	font-family: georgia, 'Times New Roman', garamond, serif;	
 }
 
-.claremont,
-.claremont p,
-.claremont ul, .claremont ol, .claremont li,
-.claremont dl, .claremont dt, .claremont dd,
-.claremont blockquote {
-	font-size: 20px;
-	line-height: 32px;
-}
-
-.claremont p {
-	text-align: justify;
-	margin-bottom: 32px;
-}
-
-.claremont p.first {
-	font-size: 24px;
-	line-height: 36px;
-	margin-bottom: 36px;
-	color: #222222;
-}
-
-.claremont p.first:first-letter {
-	float: left;
-	margin: auto .25em auto auto;
-	padding: inherit;
-	font-size: 4em;
-	font-family: inherit;
-	line-height: 1;
-	text-indent: 0;
-	background: transparent;
-	color: #660000;
-}
-
-.claremont .first-line {
-	font-variant: small-caps;
-}
-
-.claremont h1 {
+#coming-soon .jumbotron {
+	background: none;
 	text-align: center;
-	font-size: 48px;
-	margin-top: 48px;
+	padding: 80px;
+	font-family: 'Open Sans', sans-serif;
 }
 
-.claremont h2 {
-	font-size: 42px;
-	line-height: 48px;
-	margin-top: 40px;
-	margin-bottom: 18px;
+#coming-soon .jumbotron h1 {
+	text-transform: uppercase;
+	 color: white;
+	 font-family: 'Open Sans', sans-serif;
+}
+
+#coming-soon .well h2 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.coming-soon-quote {
+	/* color: #66054b; */
+	color: black;
+	margin-top:20px;
+	padding: 25px;
 	text-align: center;
-}
-
-.claremont h3 {
-	font-size: 36px;
-	line-height: 40px;
-	margin-top: 36px;
-	margin-bottom: 12px;
-}
-
-.claremont dl {
-	padding: 0 20px;
-}
-
-.claremont dd {
-	padding-left: 20px;
-	margin-bottom: 32px;
-}
-
-.claremont .image-frame-full{
-	width: 100%;
-	background-color: #efefef;
-	padding: 10px;
-	margin: 18px;
-}
-
-.claremont .image-frame-right {
-	float: right;
-	width: 50%;
-	background-color: #efefef;
-	padding: 10px;
-	margin: 18px;
-	margin-top: 0;
-}
-
-.claremont .image-frame-left {
-	float: left;
-	width: 50%;
-	background-color: #efefef;
-	padding: 10px;
-	margin: 18px;
-	margin-top: 0;
-}
-
-.claremont .image-frame img {
-	width: 100%;
-	margin-bottom: 10px;
-}
-
-.claremont .image-frame .image-caption {
-	color: #222222;
-	font-size: 12px;
-	line-height: 10px;
-}
-
-
-/** Resume Styles **/
-
-.resume-position, .resume-skillset, .resume-school {
-	font-variant: small-caps;
-	font-weight: bold;
-	font-size: 24px;
-}
-
-.resume-skills {
-	padding-left: 20px;
-	padding-right: 20px;
-}
-
-.resume-company, .resume-time, .resume-explanation {
-	font-weight: normal;
-	padding-left: 20px;
-
-}
-
-.resume-explanation {
-	font-style: italic;
-}
-
-.resume-time {
-	font-style: italic;
-	font-size: 16px;
-}
-
-.dt-multiple-dd {
-	margin-bottom: 32px;
+	font-size: 18px;
 }
